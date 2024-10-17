@@ -21,3 +21,29 @@ The **Java Swing Automation Bell Application** is a simple, easy-to-use desktop 
 ### Step 2: Run the Application
 1. Ensure you have Java installed on your system. You can download the latest version of Java [here](https://www.java.com/download/).
 2. Open your terminal or command prompt, navigate to the directory where the `.jar` file is saved, and run the following command:
+
+### Step 3: Set Up Your Bells
+- Launch the application and start scheduling bells or alarms according to your needs. Save the schedule, and the app will handle the rest!
+
+---
+
+## Safe and Secure
+This application is 100% free from any viruses, malware, or harmful content. It is open source and completely safe for anyone to download and use. You can view the full source code in this repository to verify its security and integrity.
+
+---
+
+## How to Contribute
+1. Fork this repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+---
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+If you encounter any issues or need further assistance, feel free to open an issue or contact us!

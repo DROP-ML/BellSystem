@@ -1,0 +1,92 @@
+[
+    {
+        "Title": "Silence Bell",
+        "Time": "07:25:00",
+        "audio": "./src/gui/alarm.mp3",
+        "status": "true"
+    },
+    {
+        "Title": "Mark Register",
+        "Time": "07:40:00",
+        "audio": "./src/gui/registermark.mpeg",
+        "status": "true"
+    },
+    {
+        "Title": "First Period",
+        "Time": "07:50:00",
+        "audio": "./src/gui/1.mpeg",
+        "status": "true"
+    },
+    {
+        "Title": "Second Period",
+        "Time": "08:30:00",
+        "audio": "./src/gui/2.mpeg",
+        "status": "true"
+    },
+    {
+        "Title": "Third Period",
+        "Time": "09:10:00",
+        "audio": "./src/gui/3.mpeg",
+        "status": "true"
+    },
+    {
+        "Title": "Fourth Period",
+        "Time": "09:50:00",
+        "audio": "./src/gui/4.mpeg",
+        "status": "true"
+    },
+    {
+        "Title": "Interval",
+        "Time": "10:30:00",
+        "audio": "./src/audio/interval.mpeg",
+        "status": "true"
+    },
+    {
+        "Title": "Fifth Period",
+        "Time": "10:50:00",
+        "audio": "./src/gui/5.mpeg",
+        "status": "true"
+    },
+    {
+        "Title": "2 Min Late",
+        "Time": "10:52:00",
+        "audio": "./src/gui/2late.mpeg",
+        "status": "true"
+    },
+    {
+        "Title": "Sixth Period",
+        "Time": "11:30:00",
+        "audio": "./src/gui/6.mpeg",
+        "status": "true"
+    },
+    {
+        "Title": "Seventh Period",
+        "Time": "12:10:00",
+        "audio": "./src/gui/7.mpeg",
+        "status": "true"
+    },
+    {
+        "Title": "Eight Period",
+        "Time": "12:50:00",
+        "audio": "./src/gui/8.mpeg",
+        "status": "true"
+    },
+    {
+        "Title": "Nine Period",
+        "Time": "13:30:00",
+        "audio": "./src/gui/9.mpeg",
+        "status": "false"
+    },
+    {
+        "Title": "Ten Period",
+        "Time": "14:10:00",
+        "audio": "./src/gui/10.mpeg",
+        "status": "false"
+    },
+    {
+        "Title": "End Of The Day",
+        "Time": "13:30:00",
+        "audio": "./src/gui/end.mpeg",
+        "status": "true"
+    }
+]
